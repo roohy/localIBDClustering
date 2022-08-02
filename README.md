@@ -2,6 +2,8 @@
 
 This repository is created provide public access to the software material for our paper ["Selecting clustering algorithms for IBD mapping"](https://www.biorxiv.org/content/10.1101/2021.08.11.456036v1).
 
+Supplementary Figures and Methods are available in the sca_supmat.pdf file. 
+
 - ## run_sim.py
 
     In this file, we have added the code to conduct a single simulation and analysis as an example.
